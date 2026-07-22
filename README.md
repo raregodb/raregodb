@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raregodb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=date_night&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raregodb&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=date_night&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=raregodb&cardType=langs&stars=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ###
 
